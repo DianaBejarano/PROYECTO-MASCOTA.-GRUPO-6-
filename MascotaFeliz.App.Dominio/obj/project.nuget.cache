@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "b9YULydzaEKdZKB3HBCb/JDLHb5QkA6MjjnC6s8rErtz+H0k2HaCoX52d8sMEeEWut+gAeNy5jZILkvapWgZWA==",
+  "success": true,
+  "projectFilePath": "C:\\Mascotas\\MascotaFeliz.App\\MascotaFeliz.App.Dominio\\MascotaFeliz.App.Dominio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\diani\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\diani\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
