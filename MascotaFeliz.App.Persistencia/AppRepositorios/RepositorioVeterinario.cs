@@ -14,7 +14,7 @@ namespace MascotaFeliz.App.Persistencia
         /// </summary>
         private readonly AppContext _appContext;
         /// <summary>
-        /// Metodo Constructor Utiiza 
+        ///Metodo constructor
         /// Inyeccion de dependencias para indicar el contexto a utilizar
         /// </summary>
         /// <param name="appContext"></param>//
